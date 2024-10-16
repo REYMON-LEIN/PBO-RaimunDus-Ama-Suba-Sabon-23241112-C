@@ -15,11 +15,11 @@ public class App {
         Mahasiswa mhs_1 = new Mahasiswa();
 
         //Memberikan nilai pada objek
-        mhs_1.Nama = "Angga";
-        mhs_1.NIM = "23241084";
+        mhs_1.Nama = "REYMON";
+        mhs_1.NIM = "23241112";
         mhs_1.Prodi = "Pendidikan Teknologi Informasi";
-        mhs_1.Umur = 18;
-        mhs_1.IPK = 3.0;
+        mhs_1.Umur = 21;
+        mhs_1.IPK = 3.6;
         
         //Mencetak objek
         System.out.println("Nama    : " + mhs_1.Nama);
